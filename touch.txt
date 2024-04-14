@@ -1,0 +1,9 @@
+t add
+
+git congig --global user.name "iamomkars"
+
+git config --global user.email "iamomkars@gmail.com"
+
+
+
+
